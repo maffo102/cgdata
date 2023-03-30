@@ -1,1 +1,1 @@
-error code: 1020
+{"status":{"error_code":403,"error_message":"This endpoint is temporarily unavailable due to ongoing issues. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans with higher availability and https://status.coingecko.com for API status. "}}
